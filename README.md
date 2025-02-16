@@ -43,6 +43,11 @@ I'm a **Technical Student** specializing in **Networking & Cyber Security**. Pas
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
+## 🐍 Snake Track Commit
+<p align="center">
+  <img src="https://github.com/Yazeelime/yazeelime/blob/output/github-snake-dark.svg">
+</p>
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yazeelime&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
@@ -51,9 +56,3 @@ I'm a **Technical Student** specializing in **Networking & Cyber Security**. Pas
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yazeelime&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
-
-## 🐍 Snake Track Commit
-<p align="center">
-  <img src="https://github.com/Yazeelime/yazeelime/blob/output/github-snake-dark.svg">
-</p>
-
