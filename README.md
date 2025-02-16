@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&width=435&lines=Hi!+I'm+Yudwitama+Ahlan+%F0%9F%91%8B;Networking+%26+Cyber+Security+Enthusiast;Technical+Student+%7C+IT+Support+%7C+Security+Analyst;Passionate+about+Cybersecurity+%26+Networking"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&width=435&lines=Hi!+I'm+Yudwitama+Ahlan+%F0%9F%91%8B;Cybersecurity+%26+Networking+Enthusiast;IT+Support+%7C+Security+Analyst"/>
 </p>
 
 ---
@@ -27,7 +27,7 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,openstack,mikrotik,github,linux,docker,git,bash,nginx,apache,vscode,visualstudio,windows,ubuntu,centos" width="700"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,openstack,mikrotik,github,linux,docker,git,bash,nginx,apache,vscode,visualstudio,windows,ubuntu,centos,ansible,kubernetes,terraform,aws,azure,gcp,redis,postgresql,mongodb,ci/cd" width="900"/>
 </p>
 
 ---
